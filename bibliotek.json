@@ -1,0 +1,22 @@
+[
+  { "title": "Rød", "author": "Hanne Ørstavik", "year": "2020", "borrowed": false },
+  { "title": "Lot", "author": "Bryan Washington", "year": "2019", "borrowed": false },
+  { "title": "Ink", "author": "Alice Broadway", "year": "2017", "borrowed": false },
+  { "title": "Pax", "author": "Sara Pennypacker", "year": "2016", "borrowed": false },
+  { "title": "Kaos", "author": "Patricia Cornwell", "year": "2016", "borrowed": false },
+  { "title": "Ulv", "author": "Mo Hayder", "year": "2014", "borrowed": false },
+  { "title": "Ask", "author": "Ruth Lillegraven", "year": "2013", "borrowed": false },
+  { "title": "Hav", "author": "Øyvind Rimbereid", "year": "2012", "borrowed": false },
+  { "title": "Eva", "author": "Simon Sebag Montefiore", "year": "2012", "borrowed": false },
+  { "title": "Son", "author": "Lois Lowry", "year": "2012", "borrowed": false },
+  { "title": "Øya", "author": "Victoria Hislop", "year": "2005", "borrowed": false },
+  { "title": "Eva", "author": "Karin Fossum", "year": "1995", "borrowed": false },
+  { "title": "Noe", "author": "Hans Herbjørnsrud", "year": "1988", "borrowed": false },
+  { "title": "Siv", "author": "Gerd Brantenberg", "year": "1983", "borrowed": false },
+  { "title": "Dem", "author": "Stephen King", "year": "1974", "borrowed": false },
+  { "title": "G", "author": "John Berger", "year": "1972", "borrowed": false },
+  { "title": "Mio", "author": "Astrid Lindgren", "year": "1954", "borrowed": false },
+  { "title": "Zorba", "author": "Nikos Kazantzakis", "year": "1946", "borrowed": false },
+  { "title": "Siv", "author": "Tarjei Vesaas", "year": "1929", "borrowed": false },
+  { "title": "Sult", "author": "Knut Hamsun", "year": "1907", "borrowed": false }
+]
